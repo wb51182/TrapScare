@@ -1,0 +1,10 @@
+name: TrapScare
+version: '${project.version}'
+main: wb51182.fluid4321.TrapScare
+authors: [ Fluid1234 ]
+description: Trap and Scare Plugin
+website: github.com/wb51182
+commands:
+  trap:
+  scare:
+  untrap:
